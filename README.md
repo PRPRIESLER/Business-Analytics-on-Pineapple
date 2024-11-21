@@ -28,30 +28,30 @@ The central focus of this design revolves around two pivotal tangible entities:
 
 The 'Item' entity represents a table embodying the array of products that the electronic reseller company, Pineapple, engages with. In contrast, the other entities portrayed, such as 'Sales Order,' 'Item Depreciation’, ’Vendor’, 'Purchase Order,' and 'Feedback,' are abstract entities. These abstract entities encapsulate crucial aspects of Pineapple's operations, providing a conceptual framework for understanding key processes and interactions within the business. 
 
-## Item: 
+### Item: 
 The ‘Item’ entity represents the products list that Pineapple deals with, that helps them generate revenue. 
 
-## Customer: 
+### Customer: 
 
 The ‘Customer’ entity represents the Customer base of the company. 
 
-## Vendor: 
+### Vendor: 
 
 The ‘Vendor’ entity helps the service team to grab the information such as stock, and prices of the products upon enquiry raised by the customers. 
 
-## Sales Order: 
+### Sales Order: 
 
 The ‘Sales Order’ entity allows to get the information regarding all the sales orders that have been raised by the customer for the year 2023.  
 
-## Item Depreciation: 
+### Item Depreciation: 
 
 The ‘Item Depreciation’ entity helps to get the calculated deprecated prices for every item in the item list generated as per their age. 
 
-## Purchase Order: 
+### Purchase Order: 
 
 The ‘Purchase Order’ entity helps to get the information regarding all the purchases that have been made from the vendors upon confirmed Sales Order. 
 
-## Feedback: 
+### Feedback: 
 
 The ‘Feedback’ entity helps to grab the information regarding the feedback provided by the customers as well as also helps to calculate the Net Promoter Score (NPS) for Pineapple. 
 
