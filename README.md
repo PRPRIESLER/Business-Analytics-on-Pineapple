@@ -18,7 +18,7 @@ CRM platform would be effective in documenting and monitoring customer analytics
 
 # Database Design
 The database schema for the entire project is shown below.
-![image](https://github.com/PRPRIESLER/Business-Analytics-on-Pineapple/blob/main/extended_database.png)
+![image](./extended_database.png)
 
 The central focus of this design revolves around two pivotal tangible entities:  
 
