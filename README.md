@@ -55,4 +55,7 @@ The ‘Purchase Order’ entity helps to get the information regarding all the p
 
 The ‘Feedback’ entity helps to grab the information regarding the feedback provided by the customers as well as also helps to calculate the Net Promoter Score (NPS) for Pineapple. 
 
+# Dashboards Details
+The details to Dashboards are provided within the Implementation Report in the repo.
+
 
