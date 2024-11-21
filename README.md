@@ -17,4 +17,4 @@ Analyzing customer relationship management (CRM) data can offer a perspective on
 CRM platform would be effective in documenting and monitoring customer analytics, encompassing purchase records, demographic information, and interactions with customer service. This functionality empowers Pineapple to provide personalized services to both individual customers and specific customer segments via focused advertising efforts, resulting in increased levels of customer satisfaction. 
 
 # Database Design
-![image](./database.png)
+![image](./extended_database.png)
